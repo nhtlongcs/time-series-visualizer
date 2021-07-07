@@ -4,7 +4,7 @@ Time series visualizer is a flexible extension that provides filling world map b
 
 You can know data value through shades of color 🔥
 
-For example, in the above gif, simulate data from the countries to view the COVID-19 recover cases of the world from real data.
+For example, in the below gif, simulate data from the countries to view the COVID-19 recover cases of the world from real data.
 The larger the cases are, the darker the color is
 
 ![render_gif](sample/render.gif)
