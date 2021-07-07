@@ -19,7 +19,6 @@ $ python csv2json.py --csv <path-to-csv>
 
 
 where:
-
 - `<path-to-csv>`: path to the input csv file
 
 **Example csv**:
@@ -28,6 +27,7 @@ where:
 | -------  | -------- | ----- |
 | ddmmyyyy | Vietnam  |   x   |
 
+Download lastest build version from [here](https://github.com/nhtlongcs/time-series-visualizer/releases)
 Copy `<json-file>` to visualizer data folder
 
 ```
