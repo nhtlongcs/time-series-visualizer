@@ -28,6 +28,7 @@ where:
 | ddmmyyyy | Vietnam  |   x   |
 
 Download lastest build version from [here](https://github.com/nhtlongcs/time-series-visualizer/releases)
+
 Copy `<json-file>` to visualizer data folder
 
 ```
