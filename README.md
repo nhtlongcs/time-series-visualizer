@@ -1,9 +1,19 @@
 # **Time-series-visualizer**
 
-Repo phục vụ việc hiển thị bản đồ heatmap từ dữ liệu timeseries
-Hỗ trợ định dạng `json` / `csv` 
+Time series visualizer is a flexible extension that provides filling world map by country. 
+
+You can know data value through shades of color 🔥
+
+For example, in the above gif, simulate data from the countries to view the COVID-19 infection cases of the world from real data.
+The larger the cases are, the darker the color is
+
+![render_gif](sample/render.gif)
+
+Also provide an simple convert script from csv to json. (Required input format)
 
 # Quickstart
+
+Only support `json` format for the release
 Change the variables in [this file](tools/csv2json.py)
 
 ```
