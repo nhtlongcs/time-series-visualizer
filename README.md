@@ -1,6 +1,6 @@
 # **Time-series-visualizer**
 
-Time series visualizer is a flexible extension that provides filling world map by country. 
+Time series visualizer is a flexible extension that provides filling world map by country from `csv` or `json` file.
 
 You can know data value through shades of color 🔥
 
