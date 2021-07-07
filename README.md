@@ -53,3 +53,7 @@ Copy `<json-file>` to visualizer data folder
 ```
 
 Execute `visualizer.exe` to render worldmap
+
+# Special Thanks
+
+I would like to express my gratitude to @nghuycode for his support (Nguyen Gia Huy, APCS2018)
