@@ -56,4 +56,4 @@ Execute `visualizer.exe` to render worldmap
 
 # Special Thanks
 
-I would like to express my gratitude to @nghuycode for his support (Nguyen Gia Huy, APCS2018)
+I would like to express my gratitude to @nghuycode for his support (Nguyen Gia Huy - HCMUS, APCS2018)
